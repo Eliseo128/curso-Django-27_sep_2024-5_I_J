@@ -1,0 +1,53 @@
+## Creando un empleadoapp desde un Form django
+- creamos el archivo forms.py
+- ![alt text](image-28.png)
+- 
+- en views local
+- ![alt text](image-29.png)
+-  
+- en el archivo crear.html
+- ![alt text](image-30.png)
+-
+- agregamos el boton enviar en crear.html
+- ![alt text](image-31.png)
+-
+-  en  views.py actualizamos
+- ![alt text](image-32.png)
+-
+- miramos sqlite3
+- ![alt text](image-33.png)
+-
+## Creando un empleadoapp desde un ModelForm django
+- en forms.py
+- ![alt text](image-34.png)
+-
+- actualizando views.py
+-  ![alt text](image-35.png)
+- 
+- En navegador + sqlite3
+-
+- ![alt text](image-36.png)
+-
+## Listando empleadosapp parte 1 django 
+-en lista.html
+- ![alt text](image-37.png)
+-
+- en views.py actualizamos
+- 
+- ![alt text](image-38.png)
+- en views.py y en terminal + actualizar navegador
+- ![alt text](image-39.png)
+##  Listando empleadoapp parte 2 django
+- en views.py + ver terminal + navegador + sqlite3
+- ![alt text](image-40.png)
+-
+-  actualizamos views.py para ver los datos navegador + terminal +sqlite3
+- ![alt text](image-41.png)
+-
+- refactorizamos views.py
+-
+- ![alt text](image-42.png)
+-  
+- en lista.html  y miramos en el navegador
+- 
+- ![alt text](image-43.png)
